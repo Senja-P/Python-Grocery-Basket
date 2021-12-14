@@ -27,13 +27,13 @@
 - Created a data dictionary and a population flow
 - the copy of the analytic steps uploaded above
 
+![](https://github.com/Senja-P/Images/blob/main/GitHub_PopulationFlow..png)
+
 ### Technical skills utilised
-- Examples of used Python scripts available above
-- Tools and libraries used; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy
+- Tools and libraries used; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
 - Excel, Power Point and Python used for visualisations
 
 ### Data
-
 - Size: 35 millions rows 
 - Data Sets: products, orders and customers. The customer dataset and prices column in product dataset were fabricated for the training purposes by CareerFoundry.
 - Year: 2017 
