@@ -16,6 +16,8 @@
 - The households with children placed more online orders in each loyalty group than those without kids. Almost 50% of all orders were placed with customers over 40s.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the most busiest days. The orders were declining from 5pm but increasing from 10pm. Therefore my recommendation was to increase marketing between 5pm and 9pm. The detailed report is available in GitHub. 
 - The copy of the power point presentation uploaded above
 
+![](https://github.com/Senja-P/Images/blob/main/GitHub_Instacart.png) 
+
 ### Analytics
 - Descriptive analysis, the purpose was to use past data for marketing purposes.
 - Installed libraries and importing dataframes
@@ -25,7 +27,7 @@
 - Grouped, aggregated and created new variables to answer the business questions
 - Created visuals and exported dataframes
 - Created a data dictionary and a population flow
-- the copy of the analytic steps uploaded above
+- The copy of the analysis steps uploaded above
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_PopulationFlow..png)
 
