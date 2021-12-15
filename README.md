@@ -13,13 +13,13 @@
 
 - Customer behaviours were analysed against their loyalty status and household types. The age and dependant status variables were used to form the household types. The loyalty categories based on the number of orders. The US states were divided into four geographical regions; Northeast, Midwest, South and West. 
 
-- The households with children placed more online orders in each loyalty group than those without kids. Almost 50% of all orders were placed with customers over 40s.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the most busiest days. The orders were declining from 5pm but increasing from 10pm. Therefore my recommendation was to increase marketing between 5pm and 9pm. The detailed report is available in GitHub. 
+- The households with children placed more online orders in each loyalty group than those without kids. Almost 50% of all orders were placed with customers over 40s.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the most busiest days. The orders were declining from 5pm but increasing from 10pm. Therefore my recommendation was to increase marketing between 5pm and 9pm.
 - The copy of the power point presentation uploaded above
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_Instacart.png) 
 
 ### Analytics
-- Descriptive analysis, the purpose was to use past data for marketing purposes.
+- Descriptive analysis, the purpose was to use the past data for marketing purposes.
 - Installed libraries and importing dataframes
 - Completed consistency checks; missing values and duplicates
 - Data wrangling, e.g. dropping and renaming columns
@@ -32,12 +32,12 @@
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_PopulationFlow..png)
 
 ### Technical skills utilised
-- Tools and libraries used; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
+- Tools and libraries used; Jupyter, pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
 - Excel, Power Point and Python used for visualisations
 
 ### Data
 - Size: 35 millions rows 
-- Data Sets: products, orders and customers. The customer dataset and prices column in product dataset were fabricated for the training purposes by CareerFoundry.
+- Data Sets: products, orders and customers. The customer data set and prices column in product data set were fabricated for the training purposes by CareerFoundry.
 - Year: 2017 
 
 ### Data Source 
