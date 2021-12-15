@@ -2,18 +2,18 @@
 
 ### Project Overview
 - Instacart in an online grocery store that operates through an app. In this study project, the marketing and sales teams wanted to get a better understanding of the customers and their purchasing behaviours in order to plan targeted marketing strategies. 
-- My role as a Data Analyst was to answer for the following key questions; 
+- My role as a Data Analyst was to answer the following key questions:
     
     #### a) Who are the customers?
-    What are the demographics of customers? Are there differences in ordering habits based on a customer’s loyalty status and regions?
+    What are the customer demographics? Are there differences in ordering habits based on a customer’s loyalty status and regions?
      #### b) What do they buy? 
     Are certain types of products more popular, are there differences in customers’ behaviour?
      #### c) When do they shop?
-    What are the busiest days of the week and hours of the day and are there any particular times when customers spend most money?
+    What are the busiest days of the week and hours of the day, and are there any particular times when customers spend most money?
 
-- Customer behaviours were analysed against their loyalty status and household types. The age and dependant status variables were used to form the household types. The loyalty categories based on the number of orders. The US states were divided into four geographical regions; Northeast, Midwest, South and West. 
+- Customer behaviours were analysed against their loyalty status and household types. The age and dependant status variables were used to form the household types. The loyalty categories were based on the number of orders. The US states were divided into four geographical regions; Northeast, Midwest, South and West. 
 
-- The households with children placed more online orders in each loyalty group than those without kids. Almost 50% of all orders were placed with customers over 40s.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the most busiest days. The orders were declining from 5pm but increasing from 10pm. Therefore my recommendation was to increase marketing between 5pm and 9pm.
+- The households with children placed more online orders in each loyalty group than those without children. Almost 50% of all orders were placed by customers over the age of 40.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the busiest days. The orders were declining from 5pm but increasing from 10pm, therefore my recommendation was to increase marketing between 5pm and 9pm.
 - The copy of the power point presentation uploaded above
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_Instacart.png) 
