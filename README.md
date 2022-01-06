@@ -35,7 +35,6 @@
 - Tools and libraries used; Jupyter, pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
 - Excel, Power Point and Python used for visualisations. [Power Point Presentation](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Presentation_v.2021_08_01.pdf) available above 
 
-
 ### Data
 - Size: 35 millions rows 
 - Data Sets: products, orders and customers. The customer data set and prices column in product data set were fabricated for the training purposes by CareerFoundry.
