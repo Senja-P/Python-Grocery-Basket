@@ -26,7 +26,7 @@
 - Merged dataframes
 - Grouped, aggregated and created new variables to answer the business questions
 - Created visuals and exported dataframes
-- Created a data dictionary and a population flow
+- Created a population flow
 - The copy of the [analysis steps](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Analysis%20Steps_2021_08_01.xlsx) uploaded above
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_PopulationFlow..png)
