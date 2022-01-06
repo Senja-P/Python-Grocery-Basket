@@ -33,7 +33,7 @@
 
 ### Technical skills utilised
 - Tools and libraries used; Jupyter, pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
-- Excel, Power Point and Python used for visualisations
+- Excel, Power Point and Python used for visualisations. Power Point Presentation https://github.com/Senja-P/Python-Grocery-Basket/blob/main/Instacart_Presentation_v.2021_08_01.pdf available above 
 
 ### Data
 - Size: 35 millions rows 
