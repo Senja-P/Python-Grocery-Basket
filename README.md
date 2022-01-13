@@ -14,7 +14,7 @@
 - Customer behaviours were analysed against their loyalty status and household types. The age and dependant status variables were used to form the household types. The loyalty categories were based on the number of orders. The US states were divided into four geographical regions; Northeast, Midwest, South and West. 
 
 - The households with children placed more online orders in each loyalty group than those without children. Almost 50% of all orders were placed by customers over the age of 40.  The most orders were placed in South, followed by West and Midwest, but there were no significant differences in regional level when order percentages were compared against customer numbers in each region. The most popular product types were produce, dairy & eggs and snacks. The weekends were the busiest days. The orders were declining from 5pm but increasing from 10pm, therefore my recommendation was to increase marketing between 5pm and 9pm.
-- The copy of the [Power Point Presentation](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Presentation_v.2021_08_01.pdf) uploaded above
+- The copy of the [Power Point Presentation](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Presentation_v%2C2021_08_01.pdf) uploaded above
 
 ![](https://github.com/Senja-P/Images/blob/main/GitHub_Instacart.png) 
 
@@ -33,7 +33,7 @@
 
 ### Technical skills utilised
 - Tools and libraries used; Jupyter, pandas, NumPy, os, matplotlib, seaborn, scipy. Examples of used Python scripts available above
-- Excel, Power Point and Python used for visualisations. [Power Point Presentation](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Presentation_v.2021_08_01.pdf) available above 
+- Excel, Power Point and Python used for visualisations. [Power Point Presentation](https://github.com/Senja-P/Python-Grocery-Basket/blob/main/01.%20Instacart%20Presentation%20and%20Analysis%20Steps/Instacart_Presentation_v%2C2021_08_01.pdf) available above 
 
 ### Data
 - Size: 35 millions rows 
